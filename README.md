@@ -1,7 +1,5 @@
-Ada Lovelace Tribute Page
+FREECODECAMP PROJECTS
 -------------------------
-This is a tribute page dedicated to Ada Lovelace. This is part of [FreeCodeCamp's Tribute project](https://www.freecodecamp.com/challenges/build-a-tribute-page).
+This repo has the code to projects that I create as part of FREECODECAMP.
 
-A [Pen](https://codepen.io/artismarti/pen/akrZoB) by [Arti](http://codepen.io/artismarti) on [CodePen](http://codepen.io/).
-
-[License](https://codepen.io/artismarti/pen/akrZoB/license).
+They are also available to view here: [CODEPEN](https://codepen.io/artismarti)
